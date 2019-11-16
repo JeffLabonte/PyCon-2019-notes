@@ -1,0 +1,3 @@
+[submodule "anomaly_detection_pyconca"]
+	path = anomaly_detection_pyconca
+	url = git@github.com:JeffLabonte/anomaly-pyconca.git
