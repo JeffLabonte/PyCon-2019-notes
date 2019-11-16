@@ -1,22 +1,14 @@
 # Fantastic anti-patterns and where to fin them:  Pinpointing performance bottlenecks
 
-
-
 Notes:
 
-
-
 Tool: Flame Graphs ( Sampling perfomance )
-
-
 
 Solution to bottlenecks:
 
 1. profiling
 
 2. flame graphs
-
-
 
 Profiler:
 
@@ -46,8 +38,6 @@ Profiler:
     
     * e.g `py-spy`
 
-
-
 `flame-graph` ( More of a profiler )
 
 * Vertical: stack trace depth
@@ -55,8 +45,6 @@ Profiler:
 * horizontal axus: time spend proportional to parent ( No Order)
 
 * "Gaps" between vertical levels
-
-
 
 What to look for:
 
@@ -66,15 +54,11 @@ What to look for:
 
 3. recurring function calls
 
-
-
 Anti-patern: Costly eager string formatting:
 
 - logging that has a lot of arguments
 
 - formatter
-
-
 
 Anti-patter: Repeated file system reads:
 
@@ -92,7 +76,3 @@ Decorator to wrap a function with a memorizing callable that save up to 128 call
 ```
 
 It can deal with C-Extension as well
-
-
-
-
