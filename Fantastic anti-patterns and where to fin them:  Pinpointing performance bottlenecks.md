@@ -91,7 +91,7 @@ Anti-patter: Repeated file system reads:
 Decorator to wrap a function with a memorizing callable that save up to 128 calls ( Reduce IO intesive overhead)
 ```
 
-
+It can deal with C-Extension as well
 
 
 
