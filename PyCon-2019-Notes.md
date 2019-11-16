@@ -36,7 +36,7 @@ Deploy Fast - They do 7 min /  50 times a day
 
 
 
-deploy on commit ( make sure everything works ) - Revert to last success. ( helps find out the easy quicker )
+deploy on commit ( make sure everything works ) - Revert to last success. ( helps find out the issues quicker )
 
 
 
@@ -58,7 +58,7 @@ SEV : Severity
 
 
 
-SEV1 : Critical issues that warrants plublic notfi ( release no test )
+SEV1 : Critical issues that warrants public notfications ( release no test )
 
 
 
