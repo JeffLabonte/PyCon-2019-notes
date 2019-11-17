@@ -48,19 +48,19 @@ Tip #3: Custo http adapter
 
 * automatically retry failed connection 
   
-  ![IMG_20191116_150954.jpg](/home/jflabonte/Documents/PyCon2019/pictures/IMG_20191116_150954.jpg)
+  ![IMG_20191116_150954.jpg](pictures/IMG_20191116_150954.jpg)
 
 Tip #4: Retry failed requests
 
 - Retry on these status code
   
-  -  ![](/home/jflabonte/Documents/PyCon2019/pictures/IMG_20191116_151133.jpg)
+  -  ![](pictures/IMG_20191116_151133.jpg)
   
-  - ![](/home/jflabonte/Documents/PyCon2019/pictures/IMG_20191116_151336.jpg)
+  - ![](pictures/IMG_20191116_151336.jpg)
 
 Tip #5: Log requests
 
-- ![](/home/jflabonte/Documents/PyCon2019/pictures/IMG_20191116_151512.jpg)
+- ![](pictures/IMG_20191116_151512.jpg)
 
 Tip #6: Persist request response data
 
