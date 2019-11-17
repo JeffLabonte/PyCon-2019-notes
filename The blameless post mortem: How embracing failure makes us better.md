@@ -36,7 +36,7 @@ Only the people accountable directly that needs to be in a post-mortem, You don'
 
 An examble of an incident:
 
-see picture
+![](pictures/IMG_20191117_153916.jpg)
 
 
 
