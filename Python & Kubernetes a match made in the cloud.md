@@ -11,3 +11,33 @@ This below creates a namespace and give constraint to the container ( Which is t
 
 
 `sudo unshare --for -pid --mount-proc=/var/lib`
+
+
+
+
+
+DIY:
+
+
+
+www.digiocean.com/community/ttorials/howto_create-kybernetes-clster-using-kubadm-on-ubuntu-18.04
+
+
+
+
+
+By default your Kubernetes is hidden from outside.....
+
+
+
+the deployment is more for the database, but can be used for the application like in our case.
+
+
+
+ the service is there to act as a load balancer. 
+
+
+
+NGINX can be used to deal with load balacing. The Service gives you access to the pods.
+
+
