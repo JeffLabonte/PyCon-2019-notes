@@ -1,4 +1,4 @@
-# Fantastic anti-patterns and where to fin them:  Pinpointing performance bottlenecks
+# Fantastic anti-patterns and where to find them:  Pinpointing performance bottlenecks
 
 Notes:
 
