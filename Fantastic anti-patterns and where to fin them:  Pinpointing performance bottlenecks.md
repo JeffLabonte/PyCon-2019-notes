@@ -71,7 +71,7 @@ Anti-patter: Repeated file system reads:
 `lru_cache` in the `functools`
 
 ```python
-@functoors.lr_cache(maxsize=128, tped=False)
+@functoors.lru_cache(maxsize=128, tped=False)
 Decorator to wrap a function with a memorizing callable that save up to 128 calls ( Reduce IO intesive overhead)
 ```
 
