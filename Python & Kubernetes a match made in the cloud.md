@@ -20,7 +20,7 @@ DIY:
 
 
 
-www.digiocean.com/community/tutorials/howto_create-kybernetes-clster-using-kubadm-on-ubuntu-18.04
+www.digiocean.com/community/tutorials/howto_create-kubernetes-cluster-using-kubadm-on-ubuntu-18.04
 
 
 
