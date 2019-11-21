@@ -7,7 +7,7 @@ Lots of format, makes it tricky
 **ISO 8601 ( Date and Tiem format)***
 
 ```
-YYY-MM-DDThh:mm:ss.sss + 00:00
+YYYY-MM-DDThh:mm:ss.sss + 00:00
 ```
 
 The python parser
